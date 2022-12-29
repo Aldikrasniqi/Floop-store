@@ -1,3 +1,2 @@
 # Demo 2
-test test test demo 2
-asdasdadasdad
+Ecommerce design layout using flex-box bootstrap
